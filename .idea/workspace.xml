@@ -40,7 +40,7 @@
           <entry key="Dockerfile" value="617" />
           <entry key="dockerignore" value="87" />
           <entry key="flake8" value="82" />
-          <entry key="py" value="8" />
+          <entry key="py" value="9" />
           <entry key="txt" value="100" />
           <entry key="yml" value="701" />
         </counts>
@@ -48,7 +48,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="886" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="9" />
           <entry key="YAML" value="701" />
         </counts>
       </usages-collector>
@@ -104,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -310,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
