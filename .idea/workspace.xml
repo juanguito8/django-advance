@@ -23,6 +23,7 @@
           <entry key="dockerignore" value="1" />
           <entry key="flake8" value="1" />
           <entry key="gitignore" value="1" />
+          <entry key="py" value="1" />
           <entry key="txt" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -30,6 +31,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="1" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -38,6 +40,7 @@
           <entry key="Dockerfile" value="617" />
           <entry key="dockerignore" value="87" />
           <entry key="flake8" value="82" />
+          <entry key="py" value="7" />
           <entry key="txt" value="100" />
           <entry key="yml" value="701" />
         </counts>
@@ -45,6 +48,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="886" />
+          <entry key="Python" value="7" />
           <entry key="YAML" value="701" />
         </counts>
       </usages-collector>
@@ -88,11 +92,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.github/workflows/checks.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -135,6 +148,7 @@
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/app/.flake8" />
         <option value="$PROJECT_DIR$/.github/workflows/checks.yml" />
+        <option value="$PROJECT_DIR$/app/app/urls.py" />
       </list>
     </option>
   </component>
@@ -166,6 +180,17 @@
               <item name="django-advance" type="462c0819:PsiDirectoryNode" />
               <item name=".github" type="462c0819:PsiDirectoryNode" />
               <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-advance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-advance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-advance" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,6 +305,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
